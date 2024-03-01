@@ -29,7 +29,8 @@ export const CONTACTLIST = [
     {
         link: "minhankyaw.mh@gmail.com",
         name: "Email",
-        icon: <IoMdMail size={30} />
+        icon: <IoMdMail size={30} />,
+        isEmail: true
     },
     {
         link: "https://www.facebook.com/minhankyawdev/",
